@@ -1,0 +1,9 @@
+@layer base {
+  * {
+    border-color: #e2e8f0;
+  }
+  body {
+    background-color: #f8fafc;
+    color: #0f172a;
+  }
+}
